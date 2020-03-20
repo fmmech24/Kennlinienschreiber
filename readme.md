@@ -1,9 +1,7 @@
-# electronicLoad
-100W Load with ArduinoNano v3.0
-origin from here: http://www.kovidivi.infora.hu/deu.html
-#
-build with Target3001!_v18
+# Kennlinienschreiber
+
+origin from here: 
 #
 ..still Beta-state, not tested, not for commercial-use!
 #
-![complete module]
+![complete module](https://github.com/fmmech24/Kennlinienschreiber/blob/master/pictures/IMG_20200226_152054.jpg)
